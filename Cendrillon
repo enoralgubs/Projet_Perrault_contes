@@ -10,7 +10,73 @@
                 <p/>
             </publicationStmt>
             <sourceDesc>
-                <p/>
+                <biblStruct>
+                    <monogr xml:id="Perrault_1697">
+                        <imprint xml:id="Perrault_1697_1">
+                            <date>1697</date>
+                        </imprint>
+                    </monogr><monogr xml:id="Samber_1729">
+                        <imprint xml:id="Samber_1729_1">
+                            <date>1729</date>
+                        </imprint>
+                    </monogr><monogr xml:id="Samber_1741">
+                        <imprint xml:id="Samber_1741_1">
+                            <date>1741</date>
+                        </imprint>
+                    </monogr><monogr xml:id="Neaulme_1745">
+                        <imprint xml:id="Neaulme_1745_1">
+                            <date>1745</date>
+                        </imprint>
+                    </monogr><monogr xml:id="Planche_1858">
+                        <imprint xml:id="Planche_1858_1">
+                            <date>1858</date>
+                        </imprint>
+                    </monogr><monogr xml:id="Lang_1889">
+                        <imprint xml:id="Lang_1889_1">
+                            <date>1889</date>
+                        </imprint>
+                    </monogr><monogr xml:id="Welsh_1901">
+                        <imprint xml:id="Welsh_1901_1">
+                            <date>1901</date>
+                        </imprint>
+                    </monogr><monogr xml:id="Johnson_1921">
+                        <imprint xml:id="Johnson_1921_1">
+                            <date>1921</date>
+                        </imprint>
+                    </monogr><monogr xml:id="Mansion_1922">
+                        <imprint xml:id="Mansion_1922_1">
+                            <date>1922</date>
+                        </imprint>
+                    </monogr><monogr xml:id="Brereton_1957">
+                        <imprint xml:id="Brereton_1957_1">
+                            <date>1957</date>
+                        </imprint>
+                    </monogr><monogr xml:id="Zipes_1989">
+                        <imprint xml:id="Zipes_1989_1">
+                            <date>1989</date>
+                        </imprint>
+                    </monogr><monogr xml:id="Philip_1993">
+                        <imprint xml:id="Philip_1993_1">
+                            <date>1993</date>
+                        </imprint>
+                    </monogr><monogr xml:id="Appelbaum_2002">
+                        <imprint xml:id="Appelbaum_2002_1">
+                            <date>2002</date>
+                        </imprint>
+                    </monogr><monogr xml:id="Betts_2009">
+                        <imprint xml:id="Betts_2009_1">
+                            <date>2009</date>
+                        </imprint>
+                    </monogr><monogr xml:id="Jones_2016">
+                        <imprint xml:id="Jones_2016_1">
+                            <date>2016</date>
+                        </imprint>
+                    </monogr><monogr xml:id="MoogSeifert_2021">
+                        <imprint xml:id="MoogSeifert_2021_1">
+                            <date>2021</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
@@ -187,30 +253,18 @@
                     deux sœurs au Palais, et les maria dès le jour même à deux grands Seigneurs de
                     la Cour.</p>
                 <p>Moralité</p>
-                <p>La beauté pour le sexe est un rare trésor,
-                    De l'admirer jamais on ne se lasse ;
-                    Mais ce qu'on nomme bonne grâce,
-                    Est sans prix, et vaut mieux encor.
-                    C'est ce qu'à Cendrillon fit avoir sa Marraine,
-                    En la dressant, en l'instruisant,
-                    Tant et si bien qu'elle en fit une Reine :
-                    (Car ainsi sur ce Conte on va moralisant.)
-                    Belles, ce don vaut mieux que d'être bien coiffées,
-                    Pour engager un cœur, pour en venir à bout,
-                    La bonne grâce est le vrai don des Fées ;
-                    Sans elle on ne peut rien, avec elle, on peut tout.
-                </p>
+                <p>La beauté pour le sexe est un rare trésor, De l'admirer jamais on ne se lasse ;
+                    Mais ce qu'on nomme bonne grâce, Est sans prix, et vaut mieux encor. C'est ce
+                    qu'à Cendrillon fit avoir sa Marraine, En la dressant, en l'instruisant, Tant et
+                    si bien qu'elle en fit une Reine : (Car ainsi sur ce Conte on va moralisant.)
+                    Belles, ce don vaut mieux que d'être bien coiffées, Pour engager un cœur, pour
+                    en venir à bout, La bonne grâce est le vrai don des Fées ; Sans elle on ne peut
+                    rien, avec elle, on peut tout. </p>
                 <p>Autre moralité</p>
-                <p>C'est sans doute un grand avantage,
-                    D'avoir de l'esprit, du courage,
-                    De la naissance, du bon sens,
-                    Et d'autres semblables talents,
-                    Qu'on reçoit du Ciel en partage ;
-                    Mais vous aurez beau les avoir,
-                    Pour votre avancement ce seront choses vaines,
-                    Si vous n'avez, pour les faire valoir,
-                    Ou des parrains ou des Marraines.
-                </p>
+                <p>C'est sans doute un grand avantage, D'avoir de l'esprit, du courage, De la
+                    naissance, du bon sens, Et d'autres semblables talents, Qu'on reçoit du Ciel en
+                    partage ; Mais vous aurez beau les avoir, Pour votre avancement ce seront choses
+                    vaines, Si vous n'avez, pour les faire valoir, Ou des parrains ou des Marraines. </p>
 
             </div>
         </body>
